@@ -14,14 +14,6 @@ int main()
 
     sum = so1 + so2;
     printf("Tổng của 2 số = %d\n", sum);
-)
-for (for i = 0; i < count; i++)
-{
-if (int i=0; i < count; i++);
-{// thực hiên thông tin code ở đây
-
-    /* code */
-}
 
 if (sum % 2 == 0)
 {
